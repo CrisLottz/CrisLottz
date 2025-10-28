@@ -5,6 +5,10 @@ Co-Founder at [Strivex Labs](https://strivexlabs.com).
 
 I specialize in helping companies improve efficiency by developing custom web applications, automating internal processes, and solving technical challenges. I'm passionate about optimizing workflows and delivering smart, user-friendly solutions.
 
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/171/171294.gif" alt="lain GIF" width="300"/>
+</p>
+
 ---
 
 ### 🔗 Connect with me
@@ -32,14 +36,18 @@ I specialize in helping companies improve efficiency by developing custom web ap
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
 **WordPress Development:**
 <p>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/Divi-8F43EE?style=for-the-badge&logoColor=white" alt="Divi" />
 </p>
-Theme/plugin development, Divi, Astra.
 
 **Automation & Internal Tools:**
 <p>
@@ -48,7 +56,6 @@ Theme/plugin development, Divi, Astra.
   <img src="https://img.shields.io/badge/ServiceNow-81B532?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
   <img src="https://img.shields.io/badge/Zoho-E62E2D?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho" />
 </p>
-CRM workflows.
 
 **IT Support & Administration:**
 <p>
@@ -56,23 +63,13 @@ CRM workflows.
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=activedirectory&logoColor=white" alt="Active Directory" />
 </p>
-Hardware/software troubleshooting.
-
-**Other Technologies:**
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server" />
-  <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visualbasic&logoColor=white" alt="Visual Basic" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
 
 **AI Tools:**
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-75A99F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-171515?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-</Example:
+  <img src="https://img.shields.io/badge/Microsoft_Copilot-00A3A3?style=for-the-badge&logo=microsoftcopilot&logoColor=white" alt="Microsoft Copilot" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 </p>
 
 ---
