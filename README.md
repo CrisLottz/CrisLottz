@@ -17,7 +17,7 @@ I specialize in helping companies improve efficiency by developing custom web ap
   <a href="https://www.linkedin.com/in/cristopher-eugarrios-lottz-2a24b1276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:christophereugarrios@gmail.com" target="_blank">
+  <a href="mailto:cristophereugarrios@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 </p>
