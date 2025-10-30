@@ -1,6 +1,7 @@
 ### Hi, I'm Cristopher Eugarrios Lottz
 
 I'm a bilingual (English/Spanish) Computer Science Engineer, especialized in IT Operations and Web Development
+
 Co-Founder at [Strivex Labs](https://strivexlabs.com).
 
 I specialize in helping companies improve efficiency by developing custom web applications, automating internal processes, and solving technical challenges. I'm passionate about optimizing workflows and delivering smart, user-friendly solutions.
