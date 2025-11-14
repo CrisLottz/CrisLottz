@@ -1,6 +1,6 @@
 ### Hi, I'm Cristopher Eugarrios Lottz
 
-I'm a bilingual (English/Spanish) Computer Science Engineer, especialized in IT Operations and Web Development, currently working as an IT Specialist in Campos Law Firm.
+I'm a bilingual (English/Spanish) Computer Science Engineer, especialized in IT Operations and Web Development, currently working as an IT Specialist at Campos Law Firm.
 
 Co-Founder at [Strivex Labs](https://strivexlabs.com).
 
