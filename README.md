@@ -18,7 +18,7 @@ I specialize in helping companies improve efficiency by developing custom web ap
   <a href="https://www.linkedin.com/in/cristopher-eugarrios-lottz-2a24b1276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:christophereugarrios@gmail.com" target="_blank">
+  <a href="mailto:cristophereugarrios@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 </p>
@@ -85,11 +85,11 @@ I specialize in helping companies improve efficiency by developing custom web ap
 ### 📊 Stats
 
 <p>
-  <img src="https://github-readme-stats-nine-zeta-50.vercel.app/api?username=CrisLottz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="CrisLottz's GitHub Stats" />
+  <img src="https://github-readme-stats-nine-zeta-50.vercel.app/api?username=CrisLottz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="CrisLottz's GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats-nine-zeta-50.vercel.app/api/top-langs/?username=CrisLottz&layout=compact&theme=tokyonight&hide_border=true" alt="CrisLottz's Top Languages" />
+  <img src="https://github-readme-stats-nine-zeta-50.vercel.app/api/top-langs/?username=CrisLottz&layout=compact&theme=tokyonight&hide_border=true" alt="CrisLottz's Top Languages" />
 </p>
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=CrisLottz&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CrisLottz&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
