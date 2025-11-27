@@ -91,5 +91,5 @@ I specialize in helping companies improve efficiency by developing custom web ap
   <img src="https://github-readme-stats-nine-zeta-50.vercel.app/api/top-langs/?username=CrisLottz&layout=compact&theme=tokyonight&hide_border=true" alt="CrisLottz's Top Languages" />
 </p>
 <p>
-  <img src="https://github-profile-trophy-psi-sandy.vercel.app/?username=CrisLottz&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CrisLottz&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
