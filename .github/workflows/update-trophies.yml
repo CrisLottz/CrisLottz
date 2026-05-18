@@ -2,8 +2,8 @@ name: Update GitHub Trophies
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Corre automáticamente todos los días a medianoche
-  workflow_dispatch: # Te permite ejecutarlo manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -18,18 +18,14 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          username: CrisLottz # Añadimos explícitamente tu usuario
           theme: dracula
-        env:
-          # Pasamos los modificadores visuales como variables de entorno
-          # Así la acción los lee internamente sin chocar con la validación estricta de inputs
-          NO_FRAME: true
-          NO_BG: true
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          mkdir -p src
-          git add src/
+          # Forzamos la creación del archivo directamente en la raíz para evitar fallos de directorios faltantes
+          git add github-profile-trophy.svg || true
           git commit -m "Update profile trophies with private data" || exit 0
           git push
