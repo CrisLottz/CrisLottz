@@ -17,15 +17,14 @@ jobs:
       - name: Generate Trophies
         uses: ryo-ma/github-profile-trophy@master
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          username: CrisLottz # Añadimos explícitamente tu usuario
+          token: ${{ secrets.TROPHY_TOKEN }} # Cambiado para usar tu PAT con accesos privados
+          username: CrisLottz
           theme: dracula
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          # Forzamos la creación del archivo directamente en la raíz para evitar fallos de directorios faltantes
           git add github-profile-trophy.svg || true
           git commit -m "Update profile trophies with private data" || exit 0
           git push
