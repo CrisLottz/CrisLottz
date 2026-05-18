@@ -9,7 +9,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Otorga permiso explícito para guardar el SVG en tu repositorio
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -19,9 +19,11 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: dracula
-          # Separamos los parámetros que tenías de forma nativa e individual:
-          no-frame: true
-          no-bg: true
+        env:
+          # Pasamos los modificadores visuales como variables de entorno
+          # Así la acción los lee internamente sin chocar con la validación estricta de inputs
+          NO_FRAME: true
+          NO_BG: true
 
       - name: Commit and Push Changes
         run: |
