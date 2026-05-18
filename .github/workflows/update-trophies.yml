@@ -2,14 +2,14 @@ name: Update GitHub Trophies
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs automatically every day at midnight
-  workflow_dispatch: # Allows you to manually click "Run" to test it
+    - cron: "0 0 * * *" # Corre automáticamente todos los días a medianoche
+  workflow_dispatch: # Te permite ejecutarlo manualmente
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Otorga permiso explícito para guardar el SVG en tu repositorio
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -18,13 +18,16 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          # You can add your preferred theme/arguments here:
-          params: '&theme=dracula&no-frame=true&no-bg=true&margin-w=4'
+          theme: dracula
+          # Separamos los parámetros que tenías de forma nativa e individual:
+          no-frame: true
+          no-bg: true
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          mkdir -p src
           git add src/
           git commit -m "Update profile trophies with private data" || exit 0
           git push
