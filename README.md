@@ -61,8 +61,6 @@ I specialize in helping companies improve efficiency by developing custom web ap
 **AI & Developer Tooling:**
 <p>
   <img src="https://img.shields.io/badge/Antigravity_CLI-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Antigravity CLI" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-171515?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/ChatGPT-75A99F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 </p>
 
