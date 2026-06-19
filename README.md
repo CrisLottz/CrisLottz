@@ -69,13 +69,13 @@ I specialize in helping companies improve efficiency by developing custom web ap
 ### 📊 Stats
 
 <p>
-  <img src="https://github-readme-stats-nine-zeta-50.vercel.app/api?username=CrisLottz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_bust=1" alt="CrisLottz's GitHub Stats" />
+  <img src="https://github-readme-stats-nine-zeta-50.vercel.app/api?username=CrisLottz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_bust=2" alt="CrisLottz's GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats-nine-zeta-50.vercel.app/api/top-langs/?username=CrisLottz&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_bust=1" alt="CrisLottz's Top Languages" />
+  <img src="https://github-readme-stats-nine-zeta-50.vercel.app/api/top-langs/?username=CrisLottz&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_bust=2" alt="CrisLottz's Top Languages" />
 </p>
 <p>
-  <img src="https://github-profile-trophy-psi-sandy.vercel.app/?username=CrisLottz&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_bust=2" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-psi-sandy.vercel.app/?username=CrisLottz&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_bust=3" alt="GitHub Trophies" />
 </p>
 
 ---
