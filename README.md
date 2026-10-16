@@ -12,8 +12,9 @@ I specialize in helping companies improve efficiency by developing custom web ap
 
 ---
 
-#### 🛠️ Systems Architecture, Skills & Tools
-**Backend Engine & API Development:**
+### 🛠️ Systems Architecture, Skills & Tools
+
+<p><strong>Backend Engine & API Development:</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -27,7 +28,8 @@ I specialize in helping companies improve efficiency by developing custom web ap
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 </p>
-**Frontend & UI/UX (Decoupled Architecture):**
+
+<p><strong>Frontend & UI/UX (Decoupled Architecture):</strong></p>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -38,7 +40,8 @@ I specialize in helping companies improve efficiency by developing custom web ap
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-**Databases, Caching & BaaS:**
+
+<p><strong>Databases, Caching & BaaS:</strong></p>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
@@ -47,7 +50,8 @@ I specialize in helping companies improve efficiency by developing custom web ap
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 </p>
-**DevOps, Cloud Infrastructure, Security & IAM:**
+
+<p><strong>DevOps, Cloud Infrastructure, Security & IAM:</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
@@ -60,7 +64,8 @@ I specialize in helping companies improve efficiency by developing custom web ap
   <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-**Business Automation (RevOps) & Workflows:**
+
+<p><strong>Business Automation (RevOps) & Workflows:</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Zoho_CRM_&_Deluge-E62E2D?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho CRM & Deluge" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -68,7 +73,8 @@ I specialize in helping companies improve efficiency by developing custom web ap
   <img src="https://img.shields.io/badge/ServiceNow-81B532?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
   <img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white" alt="Zendesk" />
 </p>
-**AI Harnesses, Local LLMs & Agentic Tooling:**
+
+<p><strong>AI Harnesses, Local LLMs & Agentic Tooling:</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Antigravity_CLI-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Antigravity CLI" />
