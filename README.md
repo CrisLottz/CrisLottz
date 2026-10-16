@@ -60,8 +60,8 @@ I specialize in helping companies improve efficiency by developing custom web ap
   <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-**Business Automation (RevOps) & Workflows:
-**<p>
+**Business Automation (RevOps) & Workflows:**
+<p>
   <img src="https://img.shields.io/badge/Zoho_CRM_&_Deluge-E62E2D?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho CRM & Deluge" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
@@ -79,6 +79,7 @@ I specialize in helping companies improve efficiency by developing custom web ap
   <img src="https://img.shields.io/badge/OpenCode-121212?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="OpenCode" />
   <img src="https://img.shields.io/badge/Hermes_LLM-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hermes LLM" />
 </p>
+
 ---
 
 ### 📊 Stats
