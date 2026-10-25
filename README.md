@@ -68,6 +68,8 @@ I specialize in helping companies improve efficiency by developing custom web ap
 <p><strong>Business Automation (RevOps) & Workflows:</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Zoho_CRM_&_Deluge-E62E2D?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho CRM & Deluge" />
+  <img src="https://img.shields.io/badge/Clio-0055FF?style=for-the-badge" alt="Clio" />
+  <img src="https://img.shields.io/badge/CampLegal-1E3A8A?style=for-the-badge" alt="CampLegal" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
   <img src="https://img.shields.io/badge/ServiceNow-81B532?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
