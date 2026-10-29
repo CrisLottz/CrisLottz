@@ -111,11 +111,6 @@ I specialize in helping companies improve efficiency by developing custom web ap
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrisLottz&theme=github-compact&hide_border=true" alt="Gráfica de actividad de CrisLottz" />
-</p>
----
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=CrisLottz&label=Profile%20views&color=blueviolet&style=flat" alt="Visitas al perfil" />
 </p>
 
@@ -128,7 +123,7 @@ I specialize in helping companies improve efficiency by developing custom web ap
   <a href="https://www.linkedin.com/in/cristopher-eugarrios-lottz-2a24b1276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:cristophereugarrios@gmail.com" target="_blank">
+  <a href="mailto:clottz@strivexlabs.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
