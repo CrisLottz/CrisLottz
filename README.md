@@ -104,6 +104,24 @@ I specialize in helping companies improve efficiency by developing custom web ap
 
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CrisLottz&theme=github-dark-blue&hide_border=true" alt="Racha de GitHub de CrisLottz" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrisLottz&theme=github-compact&hide_border=true" alt="Gráfica de actividad de CrisLottz" />
+</p>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CrisLottz&label=Profile%20views&color=blueviolet&style=flat" alt="Visitas al perfil" />
+</p>
+
+---
+
+
 ### 🔗 Connect with me
 
 <p>
