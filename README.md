@@ -1,10 +1,10 @@
 ### Hi, I'm Cristopher Eugarrios Lottz   
 
-I'm a bilingual (English/Spanish) Computer Science Engineer, especialized in IT Operations and Web Development, currently working as a Full-Stack Developer & Infrastructure Administrator at Campos Law Firm.
+I'm a bilingual (English/Spanish) Computer Science Engineer and Full-Stack Developer, I currently work on building and running the software and infrastructure behind legal teams all over US, I design web applications and complex systems end to end, from the interface to the API, database and deployment.
 
 Co-Founder at [Strivex Labs](https://strivexlabs.com).
 
-I specialize in helping companies improve efficiency by developing custom web applications, architecting headless APIs, automating internal processes, and solving complex technical challenges. I'm passionate about optimizing workflows and delivering secure, scalable, user-friendly solutions.
+I specialize in helping companies improve efficiency. I'm passionate about optimizing workflows and delivering secure, scalable, user-friendly solutions.
 
 <p align="center">
   <img src="https://giffiles.alphacoders.com/171/171294.gif" alt="lain GIF" width="300"/>
